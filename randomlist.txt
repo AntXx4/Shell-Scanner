@@ -1,4 +1,5 @@
 /wso.php
+/usr.php
 /wso-2.5.php
 /deray.txt
 /wos.php?login=wos
